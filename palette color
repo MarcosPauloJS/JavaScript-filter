@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Very-bright-color-background-texture-of-foam-1-hex { color: #C004D9; }
+.Very-bright-color-background-texture-of-foam-2-hex { color: #AB05F2; }
+.Very-bright-color-background-texture-of-foam-3-hex { color: #6D0FF2; }
+.Very-bright-color-background-texture-of-foam-4-hex { color: #3316F2; }
+.Very-bright-color-background-texture-of-foam-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.Very-bright-color-background-texture-of-foam-1-rgba { color: rgba(191, 4, 216, 1); }
+.Very-bright-color-background-texture-of-foam-2-rgba { color: rgba(171, 4, 242, 1); }
+.Very-bright-color-background-texture-of-foam-3-rgba { color: rgba(109, 14, 242, 1); }
+.Very-bright-color-background-texture-of-foam-4-rgba { color: rgba(51, 21, 242, 1); }
+.Very-bright-color-background-texture-of-foam-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Very-bright-color-background-texture-of-foam-1-hsla { color: hsla(292, 96, 43, 1); }
+.Very-bright-color-background-texture-of-foam-2-hsla { color: hsla(281, 96, 48, 1); }
+.Very-bright-color-background-texture-of-foam-3-hsla { color: hsla(264, 89, 50, 1); }
+.Very-bright-color-background-texture-of-foam-4-hsla { color: hsla(247, 89, 51, 1); }
+.Very-bright-color-background-texture-of-foam-5-hsla { color: hsla(0, 0, 5, 1); }

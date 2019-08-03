@@ -1,0 +1,87 @@
+/* imports */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+/* imports */
+
+/* reset */
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-sizing: 0;
+    font-size: 1em;
+    font-family: "Open Sans", "sans-serif";
+}
+/* reset */
+
+/* header */
+    .header{
+        width: 100%;
+        padding: 16px;
+        background-color: #24292E; 
+    }
+    .header >.logo{
+        text-align: center;
+        font-size: 2em;
+        color: rgb(133, 125, 125);
+        /* text-shadow: 1px 1px 10px #0D0D0D;  */
+    }
+    .view-data{
+        font-size: 1.3em;
+        width: 80%;
+        margin: 0 auto;        
+    }
+    .view-data >.intro{
+        text-align: center;   
+    }
+    .view-data >.image{
+        display: block;
+        margin: 0 auto;
+        padding: 32px;
+    }
+    .view-data >.image{
+        display: block;
+        margin: 0 auto;
+        padding: 32px;
+    }
+    /* .view-data >.information{
+         border: 1px solid #24292E; 
+    
+    } */
+
+    .view-data >.information >.filter{
+        width: 80%;
+        margin: 30px auto 30px auto;
+        /* border: 1px solid #24292E; */
+        text-align: center;
+        padding: 3px;
+    }
+    .view-data >.information >.filter >.select{
+        border: 1px solid #24292E;
+        /* border-radius: 15px;  */
+        text-align: center;
+        margin: 0 3px;
+        padding: 3px;
+    }
+    .view-data >.information >.filter >.select >option{
+        display: inline;
+        text-align: center;
+    }
+
+    .view-data >.information >.works{
+        border-collapse: collapse;
+        margin: 0 auto;
+        width: 80%;
+    }
+    .view-data >.information >.works >thead >tr >th{
+        border: 1px solid #24292E;
+        padding: 5px 15px;
+        text-align: left;
+    }
+    .view-data >.information >.works >tbody >tr >td{
+        border: 1px solid #24292E;
+        font-size: 1em;
+        padding: 5px 15px;
+    }
+
+
+/* header */
